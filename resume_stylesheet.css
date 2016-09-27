@@ -1,0 +1,33 @@
+html{
+	margin-right: 40px;
+	margin-left: 40px;
+	margin-bottom: 40px;
+	margin-top: 40px;
+	font-size: 15px;
+}
+body{
+	line-height: 1;
+	font-size: 15px;
+}
+.p1 {
+	font-size: 25px;
+	text-align: center;
+	font-weight: bolder;
+}
+.e1 {
+	font-size: 20px;
+	font-weight: bold
+	text-align: center;
+}
+.e2 {
+	font-size: 18px;
+	text-align: left;
+}
+.e3 {
+	font-size: 15px;
+	font-style: italic;
+}
+.e4 {
+	font-weight: bolder;
+	font-size: 15px;
+}
